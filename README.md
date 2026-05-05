@@ -15,7 +15,6 @@ Proyek ini merupakan portofolio pengujian perangkat lunak yang saya kerjakan dal
 
 ## 🚦 Status Workflow
 Status pengujian otomatis saat ini:
-![CI Test Status](https://github.com/Aldybia/praktikum-qa-git/actions/workflows/main.yml/badge.svg)
-
+![CI Test Status]![CI Test Status](https://github.com/Aldybia/praktikum-qa-git/actions/workflows/main.yml/badge.svg)
 ---
 *Proyek ini dikembangkan untuk mendemonstrasikan kemampuan sebagai Junior QA Engineer.*
